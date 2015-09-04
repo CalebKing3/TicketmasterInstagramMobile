@@ -1,0 +1,47 @@
+.searchBar {
+    transform: translateX(120%) translateY(-175%);
+}
+
+.taylorSwift {
+    transform: translateX(-30%)translateY(20%);
+}
+
+.addFav {
+    transform: translateX(-30%)translateY(20%);
+
+}
+
+.artistPosition {
+    transform: translateX(30%)translateY(210%);
+}
+
+.ticketmasterLogo {
+    transform: translateX(168%)translateY(150%);
+}
+
+.synopsis {
+    transform: translateX(30%)translateY(210%);
+
+}
+
+.description {
+    margin-left: 31%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+
+.early {
+    transform: translateX(30%)translateY(-10%);
+}
+.description1 {
+    margin-left: 31%;
+    margin-right: 25%;
+}
+
+.upcoming {
+    transform: translateX(400%)translateY(-10%);
+}
+
+body {
+    background-color: #fff;
+}
